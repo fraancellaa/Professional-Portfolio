@@ -1,0 +1,54 @@
+body {
+  font-size: 18px;
+}
+
+/* Header Starts */
+
+header {
+  padding: 10px;
+  background-color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header h1 {
+  color: black;
+  margin: 0;
+  display: inline-block;
+  font-size: 3vw;
+}
+
+header nav {
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+
+nav a {
+  color: black;
+  justify-content: space-between;
+  font-size: 1.6rem;
+}
+
+.hero {
+  background: lightgray;
+  background-image: url("./images/code.jpeg");
+}
+
+.hero img {
+  width: 250px;
+  margin: 30px;
+  border-radius: 3%;
+}
+
+.hero h2 {
+  color: lightgray;
+}
