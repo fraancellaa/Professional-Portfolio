@@ -17,4 +17,4 @@ Personal Portfolio created to show my work samples and potential I have as an em
 
 # Links
 
-https://github.com/fraancellaa/Professional-Portfolio
+https://fraancellaa.github.io/Professional-Portfolio/
