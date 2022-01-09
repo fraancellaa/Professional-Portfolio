@@ -104,6 +104,7 @@ nav a {
   line-height: 1.1;
   font-size: 50px;
   flex: 0 0 20%;
+  color: var(--primary);
 }
 
 .section p {
